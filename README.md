@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I'm a Coderacademy student and I'm currently learning Ruby.
+
+
 <!--
 **jacindev/jacindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
