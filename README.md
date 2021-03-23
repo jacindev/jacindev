@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 🌱 I'm a Coderacademy student and I'm currently learning Ruby.
+📫 How to reach me: 
+    E:jacinda2525@gmail.com   M:0420595550
+    [LinkedIn](https://www.linkedin.com/in/jacinda-pangaribuan-a25171207/)   [Twitter](https://twitter.com/jacindev)
 
 
 <!--
